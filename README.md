@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gary Jiang
 
-I'm a **Full Stack Developer** passionate about building web applications, exploring AI, and experimenting with 3D and machine learning technologies. I enjoy turning ideas into practical, interactive solutions.
+I'm a **Full Stack Software Engineer** passionate about building web applications, exploring AI, and experimenting with 3D and machine learning technologies. I enjoy turning ideas into practical, interactive solutions.
 
 ---
 
