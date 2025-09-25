@@ -14,14 +14,14 @@ I'm a **Full Stack Developer** passionate about building web applications, explo
 ---
 
 ## 🛠️ Programming Languages
-Python, PHP, JavaScript, TypeScript, HTML, CSS, C++, C#, Java, Rust, R, MATLAB, GLSL, Go  
+Python, PHP, JavaScript, TypeScript, HTML, CSS, C++, C#, Java, Rust, R, MATLAB, GLSL
 
 ---
 
 ## 🛠️ Frameworks & Technologies
 
 **Web / Backend Frameworks**
-Node.js, Express.js, Flask, Django, FastAPI, Laravel, Spring Boot, Fiber (Go)  
+Node.js, Express.js, Flask, Django, FastAPI, Laravel, Spring Boot
 
 **Frontend Frameworks**
 React, Next.js, Redux, Vue, Nuxt.js, Angular, Svelte, Tailwind CSS, Bootstrap, jQuery  
