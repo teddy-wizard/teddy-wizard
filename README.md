@@ -38,8 +38,3 @@ Three.js, Babylon.js, Unity3D, Unreal Engine, Blender API
 **Unit Testing Frameworks**
 Jest, Mocha, Chai, PyTest, PHPUnit, unittest, Cypress  
 
----
-
-## 📊 GitHub Stats
-![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddy-wizard&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teddy-wizard&layout=compact&theme=default)
